@@ -8,7 +8,7 @@ import time
 
 def parse_settings():
     config = {}
-    with open('settings.json', 'r') as file:
+    with open('src/settings.json', 'r') as file:
         config = json.load(file)
     return config
 

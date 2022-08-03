@@ -1,0 +1,9 @@
+{
+    "input_files": [
+        "files/sample_input_file1.txt",
+        "files/sample_input_file2.txt",
+        "files/logs/"
+    ],
+    "log_file": "logs/default_log.txt",
+    "monitor_delay": 0.5
+}
